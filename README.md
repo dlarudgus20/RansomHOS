@@ -17,3 +17,13 @@
 소스가 매우 더럽습니다.
 
 이걸로 장난치다 형사님과의 면담 기회가 와도 책임안집니다.
+
+# 파일설명
+
+RansomHOS(EXE) > 랜섬호스 EXE 파일
+
+RansomHOS(DECODE) > 랜섬호스 디코드 파일
+
+RansomHOS(Source) > 랜섬호스 소스 파일
+
+TestFILE > 랜섬호스 테스트 파일 (바탕화면에 두세요)
